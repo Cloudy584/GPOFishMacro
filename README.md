@@ -3,6 +3,7 @@
 A macro for automating fishing in GPO.
 
 Download
+[Download GPO Fish Macro](https://github.com/Cloudy584/GPOFishMacro/releases)
 
 Download the latest version
 
