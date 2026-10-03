@@ -9,15 +9,23 @@ Download the latest version
 
 Installation
 Download GPOFishMacro.exe from the latest release.
+
 Place it somewhere convenient.
+
 Run the executable.
+
 Follow the instructions provided by the macro.
+
 Features
+
 Automated fishing
+
 Simple controls
+
 Lightweight
+
 Standalone executable
-Updates
+
 
 New versions will be posted under Releases.
 
