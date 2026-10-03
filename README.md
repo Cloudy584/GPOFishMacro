@@ -16,15 +16,15 @@ Run the executable.
 
 Follow the instructions provided by the macro.
 
-Features
+Features:
 
-Automated fishing
+* Automated fishing
 
-Simple controls
+* Simple controls
 
-Lightweight
+* Lightweight
 
-Standalone executable
+* Standalone executable
 
 
 New versions will be posted under Releases.
